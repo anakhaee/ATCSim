@@ -1,0 +1,4 @@
+/home/alumno/Programacion/ATCSim/build/CMakeFiles/rebuild_cache.dir
+/home/alumno/Programacion/ATCSim/build/CMakeFiles/cppgui.dir
+/home/alumno/Programacion/ATCSim/build/CMakeFiles/edit_cache.dir
+/home/alumno/Programacion/ATCSim/build/CMakeFiles/ATCSim.dir
